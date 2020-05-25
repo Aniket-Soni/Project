@@ -81,12 +81,6 @@ from keras.models import Sequential
 from keras.layers import Dense
 
 
-# In[14]:
-
-
-model = Sequential()
-
-
 # In[15]:
 
 
